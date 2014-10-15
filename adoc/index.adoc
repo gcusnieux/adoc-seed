@@ -1,0 +1,10 @@
+:toc:
+:source-highlighter: prettify
+:icons: font
+
+Hello, AsciiDoc!
+================
+:Author:    Doc Writer
+:Email:     <doc@example.com>
+:Date:      2014-10-15
+:Revision:  1.0.0
